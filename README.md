@@ -95,3 +95,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
 - Django: [https://www.djangoproject.com/](https://www.djangoproject.com/)
+
